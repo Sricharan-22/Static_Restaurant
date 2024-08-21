@@ -17,7 +17,7 @@ JavaScript: Add interactivity and dynamic elements.
 FontAwesome: Include scalable vector icons for better visual appeal.
 Google Fonts: Enhance typography with custom fonts.
 
-git link https://github.com/yourusername/static-restaurant-website.git
+git link: https://sricharan-22.github.io/Static_Restaurant/
 
 Open index.html in your web browser to view the website.
 
